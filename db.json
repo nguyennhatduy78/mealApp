@@ -1,0 +1,64 @@
+{
+  "meal": [
+    {
+      "name": "Meal test update",
+      "address": "ABCD",
+      "photo": "http://localhost:3001/tP0jmdixHogyp1a.jpeg",
+      "rating": 3,
+      "id": 9
+    },
+    {
+      "photo": "https://i.ibb.co/Bsq4Gdd/pho.jpg",
+      "rating": 3,
+      "address": "Adasaafsf",
+      "name": "Meal test 1 ",
+      "id": 11
+    },
+    {
+      "photo": "https://i.ibb.co/Bsq4Gdd/pho.jpg",
+      "rating": 4,
+      "address": "176 dinh cong",
+      "name": "Meal test 3 ",
+      "id": 4
+    },
+    {
+      "address": "P. Thịnh Liệt, , P. Thịnh Liệt, Hanoi, Vietnam",
+      "rating": 4,
+      "photo": "https://i.ibb.co/Bsq4Gdd/pho.jpg",
+      "name": "Meal test 5",
+      "id": 2
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "Nguyen Duy",
+      "phone": "0914531198",
+      "address": "176 dinh cong",
+      "photo": "https://i.ibb.co/Bsq4Gdd/pho.jpg",
+      "meals": [
+        {
+          "rating": 3,
+          "name": "Meal test 2",
+          "photo": "https://i.ibb.co/Bsq4Gdd/pho.jpg",
+          "address": "ABCD",
+          "id": 9
+        },
+        {
+          "photo": "https://i.ibb.co/Bsq4Gdd/pho.jpg",
+          "rating": 3,
+          "address": "Adasaafsf",
+          "name": "Meal test 1 ",
+          "id": 11
+        },
+        {
+          "photo": "https://i.ibb.co/Bsq4Gdd/pho.jpg",
+          "rating": 4,
+          "address": "176 dinh cong",
+          "name": "Meal test 3 ",
+          "id": 4
+        }
+      ]
+    }
+  ]
+}
